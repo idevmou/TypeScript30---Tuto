@@ -1,0 +1,29 @@
+{
+  "name": "typescript30",
+  "version": "1.0.0",
+  "description": "TypeScript 30, Wes Bos's Javascript 30 in TypeScript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[S\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrcs3/TypeScript30.git"
+  },
+  "keywords": [
+    "TypeScript",
+    "30",
+    "JavaScript",
+    "30"
+  ],
+  "author": "Jack Stephens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrcs3/TypeScript30/issues"
+  },
+  "homepage": "https://github.com/jrcs3/TypeScript30#readme",
+  "devDependencies": {
+    "tslint": "^5.14.0",
+    "typescript": "^3.3.4000"
+  }
+}
